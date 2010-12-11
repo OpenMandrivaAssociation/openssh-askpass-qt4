@@ -1,6 +1,6 @@
 Name: openssh-askpass-qt4
 Version: 1.0.1
-Release: %mkrel 3
+Release: %mkrel 4
 Summary: Qt4 passphrase dialog for OpenSSH
 License: GPL
 Group: Graphical desktop/KDE
