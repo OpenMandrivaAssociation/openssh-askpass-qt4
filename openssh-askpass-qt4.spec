@@ -1,6 +1,9 @@
+%define _enable_debug_packages %{nil}
+%define debug_package          %{nil}
+
 Name: openssh-askpass-qt4
 Version: 1.0.1
-Release: 5
+Release: 6
 Summary: Qt4 passphrase dialog for OpenSSH
 License: GPL
 Group: Graphical desktop/KDE
