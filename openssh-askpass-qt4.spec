@@ -9,6 +9,7 @@ License:	GPL
 Group:		Graphical desktop/KDE
 URL:		%{disturl}
 Source0:	%{name}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	qt4-devel
 Requires:	openssh-askpass-common
 Provides:	openssh-askpass
